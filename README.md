@@ -1,2 +1,2 @@
-# newwebsite
-theodinproject
+
+This is my first web page built from scratch with just  HTML and CSS. It was a part of the build as you learn practice exercise of theodinproject. Although there are lots of room for improvement, and my codes are far from perfect. With lots of divs and styles flying up and down. But i believe this is a great leap and a huge step forward toward my web developmet goals. All thanks to the facilators of theodinproject.com This is just the beginning.
