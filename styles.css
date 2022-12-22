@@ -41,7 +41,8 @@ h1{
 .header{
     background-color: #1F2937;
     color: #E5E7EB;
-    margin-top: 0;  
+    margin-top: 0; 
+    font-size: 18px; 
 }
 
 
@@ -88,7 +89,7 @@ button{
 .middle > .info > img{
     height: 200px;
     width: 200px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .middle{
@@ -122,16 +123,18 @@ button{
 .quote > .quoted{
     color: #1F2937;
     font-size: 36px;
+    
     flex: 1;
-    font-weight: lighter;
+    font-weight:lighter;
     background-color: #E5E7EB;
     width: 100%;
-    text-align: center;
-    display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    display: flex;
+    
+    
     padding: 50px;
-    gap: 20px;
+    
 }
 
 .quote > .call{
@@ -145,6 +148,16 @@ button{
    align-items: center;
    
 
+}
+
+.quoted > .quotep{
+    font-weight:700;
+    margin-right: 330px;
+    margin-top: 0%;
+    align-self: center;
+    
+    align-self: flex-end;
+    
 }
 
 .footer{
